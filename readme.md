@@ -1,4 +1,6 @@
 # Adapters
+[![Chat on Slack](https://img.shields.io/badge/chat-on%20slack-7A5979.svg)](https://openmined.slack.com/messages/team_adapters)
+
 
 > Convert raw data dumps into a format usable by `syft` 🔢🐠
 

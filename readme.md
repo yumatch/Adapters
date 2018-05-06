@@ -22,4 +22,4 @@ Contributions and Pull Requests are welcome. See the [Issues section](https://gi
 
 ## License
 
-[MIT](LICENSE)
+[Apache License 2.0](https://github.com/OpenMined/Adapters/blob/master/LICENSE)

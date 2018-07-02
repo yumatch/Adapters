@@ -1,5 +1,6 @@
 # Adapters
 [![Chat on Slack](https://img.shields.io/badge/chat-on%20slack-7A5979.svg)](https://openmined.slack.com/messages/team_adapters)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fmatthew-mcateer%2FAdapters.svg?type=small)](https://app.fossa.io/projects/git%2Bgithub.com%2Fmatthew-mcateer%2FAdapters?ref=badge_small)
 
 
 Convert raw data dumps into a format usable by syft ([🐍](https://github.com/OpenMined/PySyft) & [JS](https://github.com/OpenMined/syft.js)
@@ -23,3 +24,5 @@ Contributions and Pull Requests are welcome. See the [Issues section](https://gi
 ## License
 
 [Apache License 2.0](https://github.com/OpenMined/Adapters/blob/master/LICENSE)
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fmatthew-mcateer%2FAdapters.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fmatthew-mcateer%2FAdapters?ref=badge_large)
